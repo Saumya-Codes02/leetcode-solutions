@@ -1,2 +1,3 @@
 # leetcode-solutions
-solution.java - 3362
+DivisibilitybyDigitSumandProduct.java - 3362
+PalindromeNumber.java - 9
