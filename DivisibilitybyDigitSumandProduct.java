@@ -1,4 +1,4 @@
-class Solution {
+class DivisibilitybyDigitSumandProduct {
     public boolean checkDivisibility(int n) {
         int original = n;
         int sum = 0;
