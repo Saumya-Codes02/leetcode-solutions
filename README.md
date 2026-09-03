@@ -4,3 +4,5 @@ DivisibilitybyDigitSumandProduct.java - 3362
 PalindromeNumber.java - 9
 <br>
 SmallestMissingMultipleofK.java - 3718
+<br>
+CheckifArrayIsSortedandRotated - 1752 
